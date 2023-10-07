@@ -1,7 +1,7 @@
 # Password Generator Website
 
 ## Introduction
-This is a Password Generator website built using HTML, CSS, and Javascript. It allows users to generate secure and random passwords based on their preferences.
+This is a Password Generator website built using HTML, CSS, and Javascript. It allows users to generate secure and random passwords based on their preferences. Here users can set their password Includes Uppercase Letters, Lowercase Letters, Numbers and Symbols wise.
 
 ## Demo
 You can view a live demo of the website as below
